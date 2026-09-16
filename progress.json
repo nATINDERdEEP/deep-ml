@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T21:21:12.175Z",
+  "generated_at": "2026-09-16T22:27:11.443Z",
   "items": {
     "math:32": {
       "kind": "math",
@@ -22,6 +22,17 @@
       "path": "math/0024-information-theory-entropy",
       "first_solved_at": "2026-09-16T21:21:11.525Z",
       "last_pushed_at": "2026-09-16T21:21:11.525Z"
+    },
+    "math:38": {
+      "kind": "math",
+      "id": "38",
+      "title": "Log-Likelihood Gradients",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/38",
+      "path": "math/0038-log-likelihood-gradients",
+      "first_solved_at": "2026-09-16T22:27:10.364Z",
+      "last_pushed_at": "2026-09-16T22:27:10.364Z"
     }
   }
 }
