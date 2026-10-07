@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T17:17:22.874Z",
+  "generated_at": "2026-10-07T19:44:48.674Z",
   "items": {
     "math:32": {
       "kind": "math",
@@ -107,6 +107,19 @@
       "path": "math/0005-gradient-descent-updates",
       "first_solved_at": "2026-10-07T17:17:22.157Z",
       "last_pushed_at": "2026-10-07T17:17:22.157Z"
+    },
+    "problem:955": {
+      "kind": "problem",
+      "id": "955",
+      "title": "Simple Self-Attention Without Trainable Weights",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/955",
+      "path": "problems/0955-simple-self-attention-without-trainable-weights",
+      "first_solved_at": "2026-10-07T19:44:47.840Z",
+      "last_pushed_at": "2026-10-07T19:44:47.840Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
