@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T18:10:49.484Z",
+  "generated_at": "2026-11-21T23:38:51.274Z",
   "items": {
     "math:32": {
       "kind": "math",
@@ -131,6 +131,17 @@
       "path": "math/0067-pagedattention-internal-fragmentation",
       "first_solved_at": "2026-11-20T18:10:39.466Z",
       "last_pushed_at": "2026-11-20T18:10:39.466Z"
+    },
+    "math:27": {
+      "kind": "math",
+      "id": "27",
+      "title": "Statistical Inference",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/27",
+      "path": "math/0027-statistical-inference",
+      "first_solved_at": "2026-11-21T23:38:40.684Z",
+      "last_pushed_at": "2026-11-21T23:38:40.684Z"
     }
   }
 }
