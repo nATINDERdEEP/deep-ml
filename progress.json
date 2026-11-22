@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T01:49:08.122Z",
+  "generated_at": "2026-11-22T01:53:04.389Z",
   "items": {
     "math:32": {
       "kind": "math",
@@ -153,6 +153,19 @@
       "path": "math/0277-what-the-bias-term-buys-affine-maps-the-bias-gradient-and-when-it-is-redundant",
       "first_solved_at": "2026-11-22T01:49:07.643Z",
       "last_pushed_at": "2026-11-22T01:49:07.643Z"
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-11-22T01:52:53.847Z",
+      "last_pushed_at": "2026-11-22T01:52:53.847Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
