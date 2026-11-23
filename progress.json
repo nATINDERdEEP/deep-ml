@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T14:24:45.656Z",
+  "generated_at": "2026-11-23T14:50:28.867Z",
   "items": {
     "math:32": {
       "kind": "math",
@@ -205,6 +205,19 @@
       "last_pushed_at": "2026-11-23T14:24:44.824Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:1221": {
+      "kind": "problem",
+      "id": "1221",
+      "title": "Reshape and Transpose a Tensor",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1221",
+      "path": "problems/1221-reshape-and-transpose-a-tensor",
+      "first_solved_at": "2026-11-23T14:50:27.617Z",
+      "last_pushed_at": "2026-11-23T14:50:27.617Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
