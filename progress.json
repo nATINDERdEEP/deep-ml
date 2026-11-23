@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:57:25.761Z",
+  "generated_at": "2026-11-23T19:38:59.194Z",
   "items": {
     "math:32": {
       "kind": "math",
@@ -283,6 +283,19 @@
       "last_pushed_at": "2026-11-23T18:57:25.443Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:1223": {
+      "kind": "problem",
+      "id": "1223",
+      "title": "Gradient of a Weighted Sum of Squares",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1223",
+      "path": "problems/1223-gradient-of-a-weighted-sum-of-squares",
+      "first_solved_at": "2026-11-23T19:38:58.790Z",
+      "last_pushed_at": "2026-11-23T19:38:58.790Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
